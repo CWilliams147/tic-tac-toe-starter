@@ -30,6 +30,22 @@ body {
   min-height: 100vh;
 }
 
+.square {
+  color: black;
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
